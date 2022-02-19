@@ -2,11 +2,8 @@
 
 Spring Cloud Config Server provides an HTTP resource-based API for external configuration.
 
-This app provides config on port 8888 for the following project:
+This app provides configs on port 8888 for the [following project](https://github.com/abuergo/E-commerce-JavaBackend-Project/tree/config-server-connected) (**config-server-connected** branch)
 
-Link: https://github.com/abuergo/E-commerce-JavaBackend-Project
-
-Branch name: **config-server-connected**
 
 ***
 
